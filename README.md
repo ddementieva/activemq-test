@@ -37,3 +37,4 @@ And the Camel application in the `src/main/resources/camel-context.xml` file.
 This example is documented at
 	[http://camel.apache.org/activemq-camel-tomcat.html](http://camel.apache.org/activemq-camel-tomcat.html)
 
+test
